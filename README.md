@@ -1,6 +1,6 @@
-# pepo
+# Pepo
 
-A digital piggy bank mobile app
+Your Personal Piggy Bank 2.0
 
 ## Getting Started
 
